@@ -52,11 +52,11 @@ Packages to recommend:
 - [args](https://pub.dev/packages/args)
 - [cli_completion](https://pub.dev/packages/cli_completion)
 
-DEMO TIME
+[DEMO TIME](https://github.com/impaktfull/impaktfull_talk_cli/blob/main/DEMO_1.md)
 
 # How I use one?
 
-DEMO TIME
+[DEMO TIME](https://github.com/impaktfull/impaktfull_talk_cli/blob/main/DEMO_2.md)
 
 # When not to use a custom cli?
 
