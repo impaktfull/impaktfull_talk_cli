@@ -9,7 +9,7 @@ Future<void> main(List<String> arguments) => ImpaktfullCli(arguments: arguments)
         return cli.ciCdPlugin.buildAndroid(
           obfuscate: false,
           buildNr: buildNr,
-          extension: FlutterBuildAndroidExtension.aab,
+          extension: FlutterBuildAndroidExtension.apk,
         );
       },
     );
