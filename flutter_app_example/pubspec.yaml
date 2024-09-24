@@ -14,7 +14,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
-  impaktfull_cli: ^0.15.0
+  impaktfull_cli: ^0.15.1
 
 flutter:
   uses-material-design: true
