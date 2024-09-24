@@ -2,7 +2,7 @@
 
 ## fb_cli
 
-- Open custom_cli_example
+- Open `custom_cli_example`
 
 ### Understand the code
 
@@ -26,13 +26,13 @@ The custom logger has support to show a spinner when the cli is running. You can
 
 ### Example (cli)
 
-Open custom_cli_example/bin/fb_cli.dart
+Open `custom_cli_example/bin/fb_cli.dart`
 
 Use `-h` or `--help` to see the help message. This is an easy way to explore the cli. (All thanks to the `args` package)
 
 ### Example (custom_script)
 
-Open custom_cli_example/example/tools/fb_cli.dart
+Open `custom_cli_example/example/tools/fb_cli.dart`
 
 You can also just simply run the plugins in a custom script. Which makes it easy to run the cli in the future. So you don't forget how you needed to run the cli.
 
